@@ -1,0 +1,47 @@
+.awarde{
+    height: 23vw;
+    width: 70%;
+    margin-left: 15%;
+    /* background-color: red; */
+    margin-top: 2vw;
+}
+.awardehead{
+    height: 5vw;
+    width: 100%;
+    text-align: center;
+}
+.awardehead h1{
+    font-size: 3vw;
+    font-weight: 500;
+    /* background-color: black; */
+    line-height: 3vw;
+}
+.awardedata{
+    height: 18vw;
+    width: 100%;
+    /* background-color: green; */
+    display: flex;
+    justify-content: space-around;
+}
+.awardecontent{
+    height: 100%;
+    width: 23%;
+    /* background-color: crimson; */
+}
+.awardecontentimg{
+    height: 75%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.awardecontenttxt{
+    height: 25%;
+    width: 100%;
+    /* background-color: blue; */
+    margin: 0;
+}
+.awardecontenttxt p{
+    font-size: 1.4vw;
+    padding-left: 1vw;
+}

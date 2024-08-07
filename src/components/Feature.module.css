@@ -1,0 +1,26 @@
+.feature{
+    height: 8vw;
+    width: 80%;
+    margin-left: 10%;
+    /* background-color: red; */
+    margin-top: 3vw;
+}
+.featurehead{
+    height: 3vw;
+    width: 100%;
+    text-align: center;
+}
+.featurehead h3{
+    font-weight: 500;
+    font-size: 1.7vw;
+}
+.featureimg{
+    height: 5vw;
+    width: 100%;
+    /* background-color: blue; */
+    display: flex;
+}
+.featureimg img{
+    height: 90%;
+    width: 17%;
+}

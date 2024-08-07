@@ -1,0 +1,69 @@
+.peace{
+    height: 60vw;
+    width: 90%;
+    margin-left: 5%;
+    /* background-color: red; */
+    margin-top: 1vw;
+}
+.peacehead{
+    height: 6vw;
+    width: 100%;
+    /* background-color: blue; */
+}
+.peacehead h1{
+    font-size: 3vw;
+    font-weight: 500;
+    padding-top: 2vw;
+    line-height: 2vw;
+    
+}
+.peacepic{
+    height: 40vw;
+    width: 100%;
+    /* background-color: blue; */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.peacecontent{
+    height: 15vw;
+    width: 100%;
+    /* background-color: blue; */
+}
+.peacecontentone{
+    height: 50%;
+    width: 100%;
+    /* background-color: green; */
+    display: flex;
+}
+.peacecontenttwo{
+    height: 50%;
+    width: 100%;
+    /* background-color: blue; */
+    display: flex;
+}
+.peaceobject{
+    height: 100%;
+    width: 33%;
+    /* background-color: red; */
+    display: flex;
+   
+}
+.peaceobjectimg{
+    height: 100%;
+    width: 20%;
+    /* background-color: black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.peaceobjecttxt{
+    height: 100%;
+    width: 80%;
+    /* background-color: red; */
+}
+.peaceobjecttxt p{
+    font-size: 1.6vw;
+    line-height: 2vw;
+    color: rgb(87, 85, 85);
+}

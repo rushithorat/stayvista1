@@ -1,0 +1,42 @@
+.partnerheader{
+    height: 35vw;
+    width: 90%;
+   margin-left: 5%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-color: blue;  */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 4vw;
+  }
+  .partnerheadertext{
+    /* background-color: green; */
+    height: 80%;
+    width: 45%;
+ 
+  }
+  .partnerheaderpic{
+    /* background-color: white; */
+    height: 96%;
+    width: 50%;
+    border-radius: 6px;
+  }
+
+  .partnerheaderpic img{
+    height: 100%;
+    width: 100%;
+  }
+  .partnerheadertext h1{
+    font-size: 3vw;
+    font-weight: 500;
+    padding-left: 9%;
+    line-height: 4vw;
+    
+}
+.partnerheadertext p{
+    font-size: 1.5vw;
+    color: gray;
+    line-height: 2vw;
+    padding-left: 10%;
+}
